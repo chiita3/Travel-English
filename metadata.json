@@ -1,0 +1,7 @@
+{
+  "name": "Travel English",
+  "description": "An application to practice practical English listening and speaking for travel scenarios through conversations with an AI. Perfect for building confidence before your next trip abroad.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
